@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+.days a {
+  padding: 5px;
+}
+
+a.bg-primary {
+  border-radius: 2px;
+}
